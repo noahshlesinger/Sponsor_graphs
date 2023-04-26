@@ -1,2 +1,2 @@
-# Sponsor_graphs
+# Sponsorships
 Code for graphic illustrations for sponsor presentations
